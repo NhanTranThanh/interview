@@ -30,4 +30,20 @@ Questions:
     4. ReactDOM render DOM elements 
 10. Nullish coalescing, optional chaning
 11. Prototype: mechanism by which JavaScript objects inherit features from one another.
-12. 
+12. HOC: advanced technique in React for reusing component logic,  a function that takes a component and returns a new component.
+13. Lifecycle: 
+   - static getDerivedStateFromProps()
+   - shouldComponentUpdate()
+   - render()
+   - getSnapshotBeforeUpdate()
+   - componentDidUpdate()
+   - componentWillUnmount()
+
+   Error:
+   - getDerivedStateFromError()
+   - componentDidCatch()
+14. Cookies, Session, LocalStorage
+    - Cookies: server send cookies (small spiece of data) to user's browser to remmeber user
+    - Session: object to store data for only one section (deleted when browser's tab is closed)
+    - LocalStorage: data isn't deleted even browser shut down.
+15. 
