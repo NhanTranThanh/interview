@@ -46,4 +46,6 @@ Questions:
     - Cookies: server send cookies (small spiece of data) to user's browser to remmeber user
     - Session: object to store data for only one section (deleted when browser's tab is closed)
     - LocalStorage: data isn't deleted even browser shut down.
-15. 
+15. Flexbox responsive
+16. React.memo
+17. 
